@@ -15,4 +15,6 @@
 В качестве основной книги для обучения будет [Learn You Some Erlang for Great Good!](https://learnyousomeerlang.com/introduction).
 Она вроде простая и достаточно ёмкая.
 
+Для вопросов про форматы и best\bad practicies есть официальная [дока](https://www.erlang.org/docs).
+
 В качестве универсального инструмента буду использовать [rebar3](https://www.rebar3.org/), там есть и сборщик и линтер и тестер и форматер.
