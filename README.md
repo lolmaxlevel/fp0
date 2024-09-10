@@ -18,3 +18,5 @@
 Для вопросов про форматы и best\bad practicies есть официальная [дока](https://www.erlang.org/docs).
 
 В качестве универсального инструмента буду использовать [rebar3](https://www.rebar3.org/), там есть и сборщик и линтер и тестер и форматер.
+
+![image](https://github.com/user-attachments/assets/ede07031-1d7e-4fc5-821a-994f20ffc9a4)
